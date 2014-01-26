@@ -656,7 +656,7 @@ frazzled (comparative more frazzled, superlative most frazzled)
 
 --------------
 
-Verb
+fray, v.:
 
 fray (third-person singular simple present frays, present participle fraying, simple past and past participle frayed)
 
@@ -674,3 +674,14 @@ fray (third-person singular simple present frays, present participle fraying, si
 
     (transitive) To bear the expense of; to defray.  [quotations ▼]
     (intransitive) To rub.  [quotations ▼]
+
+--------------
+
+sleet, n.:
+
+sleet (uncountable)
+
+    (chiefly UK) A mixture of rain and snow.
+    Rain which freezes before reaching the ground.
+    (firearms) Part of a mortar extending from the chamber to the trunnions.
+
