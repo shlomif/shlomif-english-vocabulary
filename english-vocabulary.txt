@@ -685,3 +685,35 @@ sleet (uncountable)
     Rain which freezes before reaching the ground.
     (firearms) Part of a mortar extending from the chamber to the trunnions.
 
+--------------
+
+circumlocution, n.:
+
+circumlocution (plural circumlocutions)
+
+    A roundabout or indirect way of speaking; the use of more words than necessary to express an idea.
+    A roundabout expression. See also euphemism
+
+Synonyms
+
+    beat around the bush
+    periphrasis
+    ambages
+
+Derived terms
+
+    circumlocutionary
+    circumlocutional
+
+--------------
+
+calque, n.:
+
+calque (plural calques)
+
+    A word or phrase in a language formed by word-for-word or morpheme-by-morpheme translation of a word in another language.
+
+        The word "watershed" is a calque of the German "Wasserscheide".
+
+
+
