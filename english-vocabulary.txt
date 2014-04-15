@@ -746,3 +746,15 @@ doyenne (plural doyennes)
 
     A female doyen.
     The senior, or eldest female member of a group.  [quotations ▼]
+
+
+--------------
+
+sneer, v.:
+
+    (intransitive) To raise a corner of the upper lip slightly, especially in scorn
+    (transitive) To utter with a grimace or contemptuous expression; to say sneeringly.
+
+        to sneer fulsome lies at a person
+
+    - https://en.wiktionary.org/wiki/sneer
