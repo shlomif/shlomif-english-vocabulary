@@ -842,3 +842,12 @@ corroborate, v.:
     (transitive) To confirm or support something with additional evidence; to
     attest or vouch for.  [quotations ▼]
     (transitive) To make strong; to strengthen.  [quotations ▼]
+
+--------------
+
+frolic, v.:
+
+frolic (third-person singular simple present frolics, present participle frolicking, simple past and past participle frolicked)
+
+    (intransitive) To romp; to behave playfully and uninhibitedly.
+    (transitive, archaic) To cause to be merry.
